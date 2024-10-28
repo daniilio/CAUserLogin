@@ -1,7 +1,7 @@
 package app;
 
-import javax.swing.*;
-import java.awt.*;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
 import data_access.InMemoryUserDataAccessObject;
 
