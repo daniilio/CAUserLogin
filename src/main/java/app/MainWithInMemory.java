@@ -1,12 +1,14 @@
 package app;
 
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
 import data_access.InMemoryUserDataAccessObject;
 import interface_adapter.ViewManagerModel;
 import interface_adapter.logged_in.LoggedInViewModel;
 import interface_adapter.login.LoginViewModel;
 import interface_adapter.signup.SignupViewModel;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
+
 import view.LoggedInView;
 import view.LoginView;
 import view.SignupView;
